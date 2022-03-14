@@ -1,4 +1,4 @@
-# western_humanites
+# western_humanities
 
 Brendan's Notes for a class on Western Humanities from Antiquity to Chaucer, first taught in Fall 2021.
 
